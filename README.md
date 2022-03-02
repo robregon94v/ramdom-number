@@ -22,7 +22,7 @@ la URL a ejecutar es: http://127.0.0.1:3000/generate-number
 
 El metodo es POST
 
-Se debe pasar por Body el siguiente Json
+Se debe pasar por Body el siguiente Json con el numero minimo y maximo a generar: 
 
 {
     "min":1,
