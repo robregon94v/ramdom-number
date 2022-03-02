@@ -1,0 +1,1 @@
+2022-02-28 07:06:00 pid:1 Worker process terminated with ERROR: E_RECOVERABLE_ERROR "Object of class stdClass could not be converted to string in C:\desarrollo\servicioprueba\vendor\workerman\workerman\Protocols\Http.php on line 254"
