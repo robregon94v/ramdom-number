@@ -30,6 +30,8 @@ Se debe pasar por Body el siguiente Json con el numero minimo y maximo a generar
 }
 
 
+Al ejecutar el servicio se genera un registro log en el archivo app.log
+
 
  
 
